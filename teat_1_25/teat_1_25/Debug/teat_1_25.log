@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\代码\VS\teat_1_25\teat_1_25\源.cpp(33,15): warning C4101: “min”: 未引用的局部变量
+  teat_1_25.vcxproj -> E:\代码\VS\teat_1_25\Debug\teat_1_25.exe
